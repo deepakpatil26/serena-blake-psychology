@@ -10,7 +10,8 @@ A professional, mobile-friendly portfolio website for a clinical psychologist, D
 
 ### Mobile View
 
-![Project Screenshot - Mobile](public/mobile-view-screenshot.jpg)
+<!-- ![Project Screenshot - Mobile](public/mobile-view-screenshot.jpg) -->
+<img src="public/mobile-view-screenshot.jpg" alt="Project Screenshot - Mobile" width="250">
 
 ## ✨ Key Features
 
