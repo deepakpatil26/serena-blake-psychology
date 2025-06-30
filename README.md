@@ -4,7 +4,13 @@ A professional, mobile-friendly portfolio website for a clinical psychologist, D
 
 **[Visit the Live Site](https://serena-blake-psychology.vercel.app/)**
 
-![Project Screenshot](public/project-screenshot.png)
+## Desktop View
+
+![Project Screenshot](public/desktop-view-screenshot.png)
+
+### Mobile View
+
+![Project Screenshot - Mobile](public/mobile-view-screenshot.jpg)
 
 ## ✨ Key Features
 
@@ -28,39 +34,43 @@ A professional, mobile-friendly portfolio website for a clinical psychologist, D
 
 To run this project locally, follow these steps:
 
-1.  **Clone the repository:**
+1. **Clone the repository:**
 
-    ```bash
-    git clone https://github.com/YourUsername/serena-blake-psychology.git
-    cd serena-blake-psychology
-    ```
+   ```bash
+   git clone https://github.com/YourUsername/serena-blake-psychology.git
+   cd serena-blake-psychology
+   ```
 
-2.  **Install dependencies:**
+2. **Install dependencies:**
 
-    ```bash
-    npm install
-    ```
+   ```bash
+   npm install
+   ```
 
-3.  **Run the development server:**
+3. **Run the development server:**
 
-    ```bash
-    npm run dev
-    ```
+   ```bash
+   npm run dev
+   ```
 
-4.  Open [http://localhost:9002](http://localhost:9002) in your browser to see the result.
+4. Open [http://localhost:9002](http://localhost:9002) in your browser to see the result.
 
 ## 🌐 Deployment to Vercel
 
 This application is optimized for deployment on [Vercel](https://vercel.com/), the platform from the creators of Next.js.
 
-1.  **Push to GitHub:** Ensure your latest code is committed and pushed to your GitHub repository.
+1. **Push to GitHub:** Ensure your latest code is committed and pushed to your GitHub repository.
 
-2.  **Import Project on Vercel:**
+2. **Import Project on Vercel:**
 
-    - Sign up for a free account on Vercel.
-    - From your dashboard, click "Add New..." and select "Project".
-    - Import your GitHub repository.
+   - Sign up for a free account on Vercel.
+   - From your dashboard, click "Add New..." and select "Project".
+   - Import your GitHub repository.
 
-3.  **Configure & Deploy:** Vercel will automatically detect that this is a Next.js project and configure the build settings correctly. You shouldn't need to change anything. Just click the "Deploy" button.
+3. **Configure & Deploy:** Vercel will automatically detect that this is a Next.js project and configure the build settings correctly. You shouldn't need to change anything. Just click the "Deploy" button.
 
 Vercel will build your site and provide you with a live URL once it's finished.
+
+---
+
+_Note: The `apphosting.yaml` file in this repository is included for compatibility with Google Cloud / Firebase App Hosting, but Vercel is the recommended deployment platform for this project as per the original problem statement._
