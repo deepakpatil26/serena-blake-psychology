@@ -2,7 +2,7 @@
 
 A professional, mobile-friendly portfolio website for a clinical psychologist, Dr. Serena Blake. This project showcases a modern, clean, and thoughtful user interface built with a production-ready tech stack.
 
-**[Visit the Live Site](https://your-vercel-deployment-url.vercel.app)**
+**[Visit the Live Site](https://serena-blake-psychology.vercel.app/)**
 
 ![Project Screenshot](public/project-screenshot.png)
 
