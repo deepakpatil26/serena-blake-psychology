@@ -25,7 +25,7 @@ A professional, mobile-friendly portfolio website for a clinical psychologist, D
 
 **Framework**
 
-![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat)
+> ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat)
 
 **Language**
 
