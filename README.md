@@ -23,13 +23,21 @@ A professional, mobile-friendly portfolio website for a clinical psychologist, D
 
 ## 🛠️ Tech Stack
 
-- **Framework:** [Next.js](https://nextjs.org/) (with App Router)
-- **Language:** [TypeScript](https://www.typescriptlang.org/)
-- **UI Library:** [React](https://reactjs.org/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Components:** [ShadCN UI](https://ui.shadcn.com/)
-- **Icons:** [Lucide React](https://lucide.dev/)
-- **Form Management:** [React Hook Form](https://react-hook-form.com/) & [Zod](https://zod.dev/)
+**Framework**
+
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white&style=flat)
+
+**Language**
+
+> ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+
+**Styling & UI**
+
+> ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat) > ![ShadCN UI](https://img.shields.io/badge/ShadCN_UI-%23111?style=flat) > ![Lucide](https://img.shields.io/badge/Lucide-000000?style=flat)
+
+**Forms & Validation**
+
+> ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat)
 
 ## 🚀 Getting Started
 
